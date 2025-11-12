@@ -92,7 +92,7 @@ endmodule
 
 
 ### **4-bit Ripple Counter using Function**
-```
+```verilog
 // 4-bit Ripple Counter using Function
 module RippleCarryCounter_4bit (
     input clk,
